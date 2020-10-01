@@ -18,6 +18,8 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+The api endpoint is at `/api/count/` the code for it can be found under `src/pages/api`.
+
 You can visit the demo here: [https://nervous-hopper-f10976.netlify.app](https://nervous-hopper-f10976.netlify.app)
 
 
